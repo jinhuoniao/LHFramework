@@ -1,0 +1,6 @@
+framework module LHFramework {
+  umbrella header "LHFramework.h"
+
+  export *
+  module * { export * }
+}
